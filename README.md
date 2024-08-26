@@ -3,17 +3,17 @@
 ## Instalasi
 1. *Setup Laravel Backend:*
     bash
-    cd commission-api
-    composer install
-    php artisan migrate
-    php artisan serve
+    - cd commission-api
+    - composer install
+    - php artisan migrate
+    - php artisan serve
     
 
 2. *Setup React Frontend:*
     bash
-    cd ../marketing-app
-    npm install
-    npm start
+    - cd ../marketing-app
+    - npm install
+    - npm start
     
 
 3. *Postman Collection:*
