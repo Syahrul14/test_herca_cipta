@@ -1,10 +1,16 @@
 # Laravel & React Project
 
+## Tools
+- php v 8.0
+- Laravel v 9.0
+- React js v 18.3.1
+  
 ## Instalasi
 1. *Setup Laravel Backend:*
     bash
     - cd commission-api
     - composer install
+    - Set env DB_DATABASE=marketing_sales
     - php artisan migrate
     - php artisan serve
     
